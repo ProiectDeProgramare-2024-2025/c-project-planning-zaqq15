@@ -1,0 +1,5 @@
+C:/Users/Zaq/CLionProjects/PP_Proj/cmake-build-debug/CMakeFiles/LibraryCore.dir
+C:/Users/Zaq/CLionProjects/PP_Proj/cmake-build-debug/CMakeFiles/librarian.dir
+C:/Users/Zaq/CLionProjects/PP_Proj/cmake-build-debug/CMakeFiles/reader.dir
+C:/Users/Zaq/CLionProjects/PP_Proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zaq/CLionProjects/PP_Proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

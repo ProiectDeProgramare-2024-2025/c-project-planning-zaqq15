@@ -1,0 +1,3 @@
+2
+978-0321563842 The_C++_Programming_Language Bjarne_Stroustrup 3
+978-0596809485 C++_Primer Stanley_Lippman 6

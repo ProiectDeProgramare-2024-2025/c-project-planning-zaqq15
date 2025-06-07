@@ -1,0 +1,11 @@
+# ninja log v6
+9	632	7709495391920628	build.ninja	97c67ca58832618c
+4	1399	7709495393411526	CMakeFiles/LibraryCore.dir/Book.cpp.obj	f84c5daa7e271b83
+16	1493	7709495393531844	CMakeFiles/LibraryCore.dir/Date.cpp.obj	865fb6983226e45d
+30	1809	7709495393662300	CMakeFiles/LibraryCore.dir/Loan.cpp.obj	25938e7e3ee2a59f
+43	2687	7709495393792768	CMakeFiles/LibraryCore.dir/FileManager.cpp.obj	726a8b52fa5d238c
+1404	3311	7709495407408743	CMakeFiles/librarian.dir/librarian.cpp.obj	656d8cd388e04516
+2687	3347	7709495420230337	libLibraryCore.a	35fed8ad60e721be
+1494	3728	7709495408308304	CMakeFiles/reader.dir/reader.cpp.obj	6a50d26fa1a6be9d
+3348	3815	7709495426848640	librarian.exe	be6377220a17acdd
+3729	4187	7709495430659094	reader.exe	93171f0cbef4943c
